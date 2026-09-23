@@ -1,0 +1,6 @@
+{
+  "name": "તલાવડી પ્રા. શાળા - ધોરણ ૬ હાજરી રજીસ્ટર",
+  "description": "તલાવડી પ્રાથમિક શાળા હાલોલ (પંચમહાલ) - ધોરણ ૬ માટે ફોટો ક્લિક ઇન્ટરેક્ટિવ હાજરી રજીસ્ટર અને માસિક પત્રક સિસ્ટમ.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
